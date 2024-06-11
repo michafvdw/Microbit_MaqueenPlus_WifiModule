@@ -2,8 +2,8 @@ ESP8266ThingSpeak.connectWifi(
 SerialPin.P16,
 SerialPin.P2,
 BaudRate.BaudRate115200,
-"Micha's iPhone",
-"12345678"
+"enter wifi SSI",
+"enter wifi password"
 )
 basic.forever(function () {
     if (ESP8266ThingSpeak.isWifiConnected()) {
@@ -15,7 +15,7 @@ basic.forever(function () {
         // Verbinding maken met ThingSpeak en gegevens versturen
         ESP8266ThingSpeak.connectThingSpeak(
         "api.thingspeak.com",
-        "91UN2O8T708S4JA4",
+        "enter API write key",
         input.temperature(),
         0,
         0,
