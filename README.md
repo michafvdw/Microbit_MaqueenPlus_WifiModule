@@ -6,7 +6,7 @@ connected to a Maqueen Plus robot and an ESP8266 WiFi module. The micro
 will control the robot's movements and send sensor data (like temperature or distance) to a remote server. Additionally, commands can be sent to the robot from a web interface or another remote source.
 
 # About this project
-This code is for a project called Medialab 2 at the Hogeschool Rotterdam. This project is made for firefighters in the region Rijnmond. The research question is as follows: * How can we help residents of Rijnmond (20-40) who live in a densely populated area to act correctly during dangerous situations before emergency responders arrive? * The robot helps people who have a fire in their home to get to safety. For this prototype it only detects and dodges objects. The robot has a temperature sensor and send this data to an App where the user can see this data. 
+This code is for a project called Medialab 2 at the Hogeschool Rotterdam. This project is made for firefighters in the region Rijnmond. The research question is as follows: *How can we help residents of Rijnmond (20-40) who live in a densely populated area to act correctly during dangerous situations before emergency responders arrive?* The robot helps people who have a fire in their home to get to safety. For this prototype it only detects and dodges objects. The robot has a temperature sensor and send this data to an App where the user can see this data. 
 
 # Components required 
 
