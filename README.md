@@ -24,4 +24,7 @@ Here the two different javascript files will be described
 
 In this code the maqueen plus drives forward until it encounters a object, then it turns left. It works with an ultrasonic sensor which detecters how far away an object is. If the distance is less than 10 cm it turns left. Now, it also works with the huskylens. As seen in the above picture, a QR code is printed out and put on a mug. The huskylens scans this code and turns left if the QR code is detected. This way the maqueen plus is able to detect and dodge objects. An extra feature could be face recognization. You are  able to use face recognization with the husky lens and this way you can drive to the person that needs to abandon the building. 
 
+## esp8266_thingspeak.js
+
+In this code the microbit uses the wifi module ESP8266 to connect to the internet. It communicates with Thingspeak, an IoT platform. The data of the temperature is send there and it makes a graph of this data. What you will need to make this work is a thingspeak account, a thingspeak channel and a write API key. 
 
