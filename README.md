@@ -13,4 +13,7 @@ will control the robot's movements and send sensor data (like temperature or dis
 - 4.Jumper Wires: For connecting the ESP8266 to the micro.
 - 5.Power Supply: Batteries for the Maqueen Plus robot and the micro
 
+# Files 
+
+
 
