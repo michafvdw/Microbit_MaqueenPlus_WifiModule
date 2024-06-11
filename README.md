@@ -7,7 +7,7 @@ will control the robot's movements and send sensor data (like temperature or dis
 
 # Components required 
 
-1.Micro: The main microcontroller board.
+1.Micro: The main microcontroller board. <br></br>
 2.Maqueen Plus Robot: An educational robot that can be controlled via a micro.
 3.ESP8266 WiFi Module: To enable WiFi connectivity for sending and receiving data.
 4.Jumper Wires: For connecting the ESP8266 to the micro.
