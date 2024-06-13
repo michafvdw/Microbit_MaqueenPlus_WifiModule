@@ -16,6 +16,7 @@ This code is for a project called Medialab 2 at the Hogeschool Rotterdam. This p
 - 4.Jumper Wires: For connecting the ESP8266 to the micro.
 - 5.Power Supply: Batteries for the Maqueen Plus robot and the micro
 - 6. Huskylens: For recognizing objects
+- 7. Groove kit: for the connection to the ESP2866
 
 # Files 
 Here the two different javascript files will be described
@@ -26,5 +27,5 @@ In this code the maqueen plus drives forward until it encounters a object, then 
 
 ## esp8266_thingspeak.js
 
-In this code the microbit uses the wifi module ESP8266 to connect to the internet. It communicates with Thingspeak, an IoT platform. The data of the temperature is send there and it makes a graph of this data. What you will need to make this work is a thingspeak account, a thingspeak channel and a write API key. 
+In this code the microbit uses the wifi module ESP8266 to connect to the internet. It communicates with Thingspeak, an IoT platform. The data of the temperature is send there and it makes a graph of this data. What you will need to make this work is a thingspeak account, a thingspeak channel and a write API key. You'll also need the groove extension instead of the ESP2866 extension. 
 
