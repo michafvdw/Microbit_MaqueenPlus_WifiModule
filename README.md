@@ -28,4 +28,4 @@ In this code the maqueen plus drives forward until it encounters a object, then 
 ## esp8266_thingspeak.js
 
 In this code the microbit uses the wifi module ESP8266 to connect to the internet. It communicates with Thingspeak, an IoT platform. The data of the temperature is send there and it makes a graph of this data. What you will need to make this work is a thingspeak account, a thingspeak channel and a write API key. You'll also need the groove extension instead of the ESP2866 extension. 
-https://thingspeak.com/channels/public?tag=esp8266 
+Website for thingspeak --> https://thingspeak.com/channels/public?tag=esp8266 
