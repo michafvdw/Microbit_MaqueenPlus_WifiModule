@@ -29,3 +29,6 @@ In this code the maqueen plus drives forward until it encounters a object, then 
 
 In this code the microbit uses the wifi module ESP8266 to connect to the internet. It communicates with Thingspeak, an IoT platform. The data of the temperature is send there and it makes a graph of this data. What you will need to make this work is a thingspeak account, a thingspeak channel and a write API key. You'll also need the groove extension instead of the ESP2866 extension. 
 Website for thingspeak --> https://thingspeak.com/channels/public?tag=esp8266 
+
+## Recognise_face.js
+This is a prototype where the Maqueen plus drives towards a recognized face. The huskylens is trained with a face and given an ID of 1. This is not used for our final product but a useful prototype nonetheless. 
